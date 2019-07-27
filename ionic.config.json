@@ -1,0 +1,7 @@
+{
+  "name": "uok-google-1",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
