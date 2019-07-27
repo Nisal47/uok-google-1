@@ -23,10 +23,10 @@ export class AppComponent {
 
       Environment.setEnv({
         // api key for server
-        'API_KEY_FOR_BROWSER_RELEASE': 'YOUR_API_KEY_HERE',
+        'API_KEY_FOR_BROWSER_RELEASE': 'AIzaSyCwAeSCt5Whod2kX4LKavwv_QFsbuFHnZ4',
 
         // api key for local development
-        'API_KEY_FOR_BROWSER_DEBUG': 'YOUR_API_KEY_HERE'
+        'API_KEY_FOR_BROWSER_DEBUG': 'AIzaSyCwAeSCt5Whod2kX4LKavwv_QFsbuFHnZ4'
       });
 
       this.statusBar.styleDefault();
